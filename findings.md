@@ -1,4 +1,5 @@
 
+[diagram]: https://lh3.googleusercontent.com/UxJf67Ey4OBrbc46cPfu2mR4CjaD5J51jtiX2m_HNtfcwgmQUbF2ez5ZeihwzZfItORwdO1qvp-FtCccXquUN4FIk6k0QfRK_7JhVkPw6CjnVbzDFJAtgBKa7kfFk36zrjwwqBTv
 
 The [NG2-native rendering library](https://github.com/angular/react-native-renderer) is under the angular organisation.
 
