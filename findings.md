@@ -27,7 +27,7 @@ Then you'd create NG2 services to encapsulate the logic. The components will pro
 The trade off between NG2 + React Native vs say Cordova is similar to
 SWT vs Swing
 
-Lots of large collaborators: Google, Facebook, Microsoft. 
+Lots of large collaborators: Google, Facebook, Microsoft. But primary development by 1 man/small french company.
 + Native widgets
 + Developer skill sharing, Knowledge sharing (angular2 skills translate)
 + Possibility for code sharing
