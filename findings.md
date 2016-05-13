@@ -28,3 +28,6 @@ The trade off between NG2 + React Native vs say Cordova is similar to
 SWT vs Swing
 
 
+
+Potential areas of further research: 
+- compare with alternatives like Nativescript and Ionic 2
