@@ -32,8 +32,8 @@ Lots of large collaborators: Google, Facebook, Microsoft. But primary developmen
 * + Developer skill sharing, Knowledge sharing (angular2 skills translate)
 * + Possibility for code sharing
 * +/- Might be feasible to develop for web+native mobile with this if you start with it in mind or heavily refactor
-* - Not magically run an angular2 app on your phone
-* - No HTML or CSS on mobile, which a Webview wrapper/Cordava
+* - Not magically run an angular2 app on your phone. This is feasible by wrapping in a webview with native extensions.
+* - No HTML or CSS on mobile, which a Webview wrapper/Cordava would allow
 
 Potential areas of further research: 
 - compare with alternatives like Nativescript and Ionic 2
