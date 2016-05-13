@@ -37,3 +37,5 @@ Lots of large collaborators: Google, Facebook, Microsoft. But primary developmen
 
 Potential areas of further research: 
 - compare with alternatives like Nativescript and Ionic 2
+
+We got in a side discussion on how to do CI testing of native apps. Cloud services like Saucelabs and https://circleci.com/mobile/ would come in handy there probably. Unless a customers org is big enough to setup custom CI infrastructure. 
