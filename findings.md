@@ -6,9 +6,9 @@ So it's officially endorsed in a way. But currently it's a small french company 
 
 Currently it's in alpha; looking for feedback etc. So we'll have to keep track to see whether it will evolve enough.
 
-At this point it runs on iOs and Android. MS and Facebook are collaborating to make React Native support Windows Universal Platform. Then this stack will also run on Windows Universal Platform.
+At this point it runs on iOs and Android. MS and Facebook are collaborating to make React Native support Windows Universal Platform. Then this stack will also run on Windows Universal Platform (Windows 10, Xbox one, Windows Phone).
 
-How it works is easily seen from the diagram on 
+How it works is explained in [the announcement blog post](http://angularjs.blogspot.nl/2016/04/angular-2-react-native.html).
 
 The seed project includes the following tests:
  - e2e using Appium running in the native rendering in simulators
