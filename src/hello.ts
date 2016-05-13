@@ -29,7 +29,7 @@ import {StyleSheet} from 'react-native';
 </View>
 <Image *ngIf="test" [styleSheet]="styles.image" [style]="{left: 0}" [source]="angularLogo"></Image>
 <!--<Image [styleSheet]="styles.image" [style]="{right: 0}" [source]="reactLogo" ></Image>-->
-<Image [styleSheet]="styles.image" [style]="{right: 0}" [source]="codestar" ></Image>
+<Image [styleSheet]="styles.logo" [style]="{right: 0}" [source]="codestar" ></Image>
 `
 })
 export class HelloApp {
@@ -72,6 +72,13 @@ export class HelloApp {
       image: {
         height: 100,
         width: 100,
+        overflow: 'hidden',
+        position: 'absolute',
+        bottom: 0
+      },
+      logo: {
+        height: 100,
+        width: 150,
         overflow: 'hidden',
         position: 'absolute',
         bottom: 0
