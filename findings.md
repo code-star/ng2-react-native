@@ -28,12 +28,12 @@ The trade off between NG2 + React Native vs say Cordova is similar to
 SWT vs Swing
 
 Lots of large collaborators: Google, Facebook, Microsoft. But primary development by 1 man/small french company.
-+ Native widgets
-+ Developer skill sharing, Knowledge sharing (angular2 skills translate)
-+ Possibility for code sharing
-+/- Might be feasible to develop for web+native mobile with this if you start with it in mind or heavily refactor
-- Not magically run an angular2 app on your phone
-- No HTML or CSS on mobile, which a Webview wrapper/Cordava
+* + Native widgets
+* + Developer skill sharing, Knowledge sharing (angular2 skills translate)
+* + Possibility for code sharing
+* +/- Might be feasible to develop for web+native mobile with this if you start with it in mind or heavily refactor
+* - Not magically run an angular2 app on your phone
+* - No HTML or CSS on mobile, which a Webview wrapper/Cordava
 
 Potential areas of further research: 
 - compare with alternatives like Nativescript and Ionic 2
